@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeverscale_docs_website=self.webpackChunkeverscale_docs_website||[]).push([[4161],{6945:function(e){e.exports=JSON.parse('{"title":"Standards","slug":"standard","permalink":"/docs/standard","navigation":{"next":{"title":"What is TIP?","permalink":"/docs/standard/workflow"}}}')}}]);
